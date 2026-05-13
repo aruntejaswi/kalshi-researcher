@@ -1,0 +1,15 @@
+.env
+secrets/
+*.pem
+*.key
+*.db
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+dist/
+.DS_Store
+
+# Loose key file sitting at the project root
+kalshi_trader.txt
+
